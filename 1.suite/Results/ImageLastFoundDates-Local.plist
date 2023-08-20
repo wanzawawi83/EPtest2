@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initialscreen.png</key>
+	<string>2023-08-20 10:01 +0000</string>
+	<key>launch_notepad/launch_notepad.png</key>
+	<string>2023-08-20 09:02 +0000</string>
+	<key>notepad_open.png</key>
+	<string>2023-08-20 10:01 +0000</string>
+	<key>to_search.png</key>
+	<string>2023-08-20 10:01 +0000</string>
+	<key>win_icon.png</key>
+	<string>2023-08-20 10:01 +0000</string>
+</dict>
+</plist>

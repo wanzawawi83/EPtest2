@@ -1,0 +1,127 @@
+{
+  "lastmodifieddate" : 1692525872.6122022,
+  "testlocationdata" : [
+    {
+      "name" : "launch_notepad\/launch_notepad.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin11",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[34,12]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.93",
+      "capturerect" : [
+        53,
+        322,
+        68,
+        24
+      ]
+    },
+    {
+      "name" : "launch_notepad\/launch_notepad2.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin11",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[34,12]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.93",
+      "capturerect" : [
+        53,
+        217,
+        68,
+        24
+      ]
+    },
+    {
+      "name" : "launch_notepad\/launch_notepad3.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin11",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[34,12]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.93",
+      "capturerect" : [
+        53,
+        217,
+        68,
+        24
+      ]
+    },
+    {
+      "name" : "launch_notepad\/launch_notepad2.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin11",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[34,12]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.93",
+      "capturerect" : [
+        53,
+        217,
+        68,
+        24
+      ]
+    }
+  ],
+  "createddate" : 1692522163.9169521,
+  "lastfoundlocation" : [
+    53,
+    217,
+    68,
+    24
+  ],
+  "originalcapturelocation" : [
+    53,
+    322,
+    68,
+    24
+  ],
+  "lastfounddate" : 1692525683.739646,
+  "name" : "launch_notepad"
+}

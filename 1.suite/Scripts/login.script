@@ -1,0 +1,8 @@
+﻿Connect "VMwin11"
+
+WaitFor 15.0, "initialscreen"
+Click (Image:"win_icon", WaitFor:8)
+Click {Image:"to_search", WaitFor:8}
+typetext "notepad", returnKey
+Click {Image:"launch_notepad", WaitFor:8}
+WaitFor 8.0, "notepad_open"

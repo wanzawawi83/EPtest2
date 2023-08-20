@@ -1,0 +1,47 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running login.script",
+      "timestamp" : "2023-08-20 17:00:04.926 +0800"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "found at (75, 746)",
+      "identifier" : "waitfor",
+      "image" : "initialscreen",
+      "handlerLine" : 1,
+      "timestamp" : "2023-08-20 17:00:05.171 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "at (32, 744)",
+      "identifier" : "click",
+      "image" : "win_icon",
+      "handlerLine" : 2,
+      "timestamp" : "2023-08-20 17:00:05.340 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "notepad[returnKey]",
+      "timestamp" : "2023-08-20 17:00:06.153 +0800",
+      "identifier" : "typetext",
+      "scriptName" : "login.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.249026\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-08-20 17:00:04 +0800\", Successes:\"0\", TestCase:\"login.script\", Warnings:\"0\")",
+      "timestamp" : "2023-08-20 17:00:06.178 +0800"
+    },
+    {
+      "message" : "STUnknownMessage: ERROR: No Such Command: 'returnkey' -- Execution Time 0:00:01 login.script",
+      "timestamp" : "2023-08-20 17:00:06.461 +0800",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2023-08-20 17:00:04.928 +0800"
+}

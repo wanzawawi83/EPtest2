@@ -1,0 +1,109 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running login.script",
+      "timestamp" : "2023-08-20 17:11:19.725 +0800"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "VMwin11:(null)",
+      "timestamp" : "2023-08-20 17:11:25.140 +0800",
+      "identifier" : "Connect",
+      "scriptName" : "login.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "found at (75, 746)",
+      "identifier" : "waitfor",
+      "image" : "initialscreen",
+      "handlerLine" : 3,
+      "timestamp" : "2023-08-20 17:11:31.021 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "at (32, 744)",
+      "identifier" : "click",
+      "image" : "win_icon",
+      "handlerLine" : 4,
+      "timestamp" : "2023-08-20 17:11:31.629 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "notepad[returnKey]",
+      "timestamp" : "2023-08-20 17:11:32.443 +0800",
+      "identifier" : "typetext",
+      "scriptName" : "login.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "Unable to Find Image(s): launch_notepad.png -- AutoUpdate engaged",
+      "timestamp" : "2023-08-20 17:11:41.177 +0800",
+      "identifier" : "LogWarning",
+      "scriptName" : "login.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerLine" : 6,
+      "handlerName" : "on_login",
+      "timestamp" : "2023-08-20 17:11:41.342 +0800",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "contextInfo" : "\"Name\" = \"Alternate Types\"; \"Info\" = \"Adaptive to Image\"; ",
+      "message" : "Found Alternate Image -- Using Alternate Types Adaptive to Image. New Image Rep saved: 'launch_notepad\/launch_notepad2.png'",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "launch_notepad\/launch_notepad.png",
+      "otherProperties" : {
+        "Info" : "Adaptive to Image",
+        "foundRect" : [
+          53,
+          217,
+          68,
+          24
+        ],
+        "AutoUpdateApplied" : true,
+        "Name" : "Alternate Types"
+      },
+      "handlerLine" : 6,
+      "timestamp" : "2023-08-20 17:11:41.417 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "at (87, 229)",
+      "identifier" : "click",
+      "image" : "launch_notepad\/launch_notepad2.png",
+      "handlerLine" : 6,
+      "timestamp" : "2023-08-20 17:11:41.526 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "found at (98, 144)",
+      "identifier" : "waitfor",
+      "image" : "notepad_open",
+      "handlerLine" : 7,
+      "timestamp" : "2023-08-20 17:11:43.237 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"23.528875\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-08-20 17:11:19 +0800\", Successes:\"1\", TestCase:\"login.script\", Warnings:\"1\")",
+      "timestamp" : "2023-08-20 17:11:43.256 +0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:23 login.script",
+      "timestamp" : "2023-08-20 17:11:43.270 +0800"
+    }
+  ],
+  "createdTimestamp" : "2023-08-20 17:11:19.727 +0800"
+}

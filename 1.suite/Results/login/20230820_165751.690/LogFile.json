@@ -1,0 +1,55 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running login.script",
+      "timestamp" : "2023-08-20 16:57:51.695 +0800"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "found at (75, 746)",
+      "identifier" : "waitfor",
+      "image" : "initialscreen",
+      "handlerLine" : 1,
+      "timestamp" : "2023-08-20 16:57:52.107 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "at (32, 744)",
+      "identifier" : "click",
+      "image" : "win_icon",
+      "handlerLine" : 2,
+      "timestamp" : "2023-08-20 16:57:52.704 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "notepad[enter]",
+      "timestamp" : "2023-08-20 16:57:53.517 +0800",
+      "identifier" : "typetext",
+      "scriptName" : "login.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "found at (68, 337)",
+      "identifier" : "waitfor",
+      "image" : "notepad_open",
+      "handlerLine" : 4,
+      "timestamp" : "2023-08-20 16:57:54.158 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.478655\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-08-20 16:57:51 +0800\", Successes:\"1\", TestCase:\"login.script\", Warnings:\"0\")",
+      "timestamp" : "2023-08-20 16:57:54.176 +0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 login.script",
+      "timestamp" : "2023-08-20 16:57:54.184 +0800"
+    }
+  ],
+  "createdTimestamp" : "2023-08-20 16:57:51.696 +0800"
+}

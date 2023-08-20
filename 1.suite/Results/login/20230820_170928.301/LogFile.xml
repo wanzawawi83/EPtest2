@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="login_script" package="1.suite" timestamp="2023-08-20 17:09:28.301 +0800"
+ tests="1"  failures="1" errors="1" time="20.781624">
+  <properties>
+   <property name="RunDate" value="2023-08-20 17:09:28.301 +0800"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="login.script" assertions="1" status="error"  time="20.774158">
+    <failure type="FAILURE" message="Image Not Found: waitfor Error - Unable To Find Any Image On Screen &quot;initialscreen&quot; within 15.00 seconds -- Execution Time 0:00:20 login.script" />
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;initialscreen&quot; within 15.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,92 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running login.script",
+      "timestamp" : "2023-08-20 16:56:45.455 +0800"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "found at (75, 746)",
+      "identifier" : "waitfor",
+      "image" : "initialscreen",
+      "handlerLine" : 1,
+      "timestamp" : "2023-08-20 16:56:45.962 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "at (32, 744)",
+      "identifier" : "click",
+      "image" : "win_icon",
+      "handlerLine" : 2,
+      "timestamp" : "2023-08-20 16:56:46.574 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "notepad[returnKey]",
+      "timestamp" : "2023-08-20 16:56:47.390 +0800",
+      "identifier" : "typetext",
+      "scriptName" : "login.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "Unable to Find Image(s): notepad_open.png -- AutoUpdate engaged",
+      "timestamp" : "2023-08-20 16:56:55.425 +0800",
+      "identifier" : "LogWarning",
+      "scriptName" : "login.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerLine" : 4,
+      "handlerName" : "on_login",
+      "timestamp" : "2023-08-20 16:56:55.650 +0800",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "contextInfo" : "\"Name\" = \"Scaling Search\"; \"Info\" = \"1.2000\"; ",
+      "message" : "Found Alternate Image -- Using Scaling Search 1.2000. New Image Rep saved: 'notepad_open\/notepad_open2.png'",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "notepad_open\/notepad_open.png",
+      "otherProperties" : {
+        "Info" : "1.2000",
+        "foundRect" : [
+          54,
+          321,
+          21,
+          26
+        ],
+        "AutoUpdateApplied" : true,
+        "Name" : "Scaling Search"
+      },
+      "handlerLine" : 4,
+      "timestamp" : "2023-08-20 16:56:55.705 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "found at (68, 337)",
+      "identifier" : "waitfor",
+      "image" : "notepad_open\/notepad_open2.png",
+      "handlerLine" : 4,
+      "timestamp" : "2023-08-20 16:56:55.714 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"10.278139\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-08-20 16:56:45 +0800\", Successes:\"1\", TestCase:\"login.script\", Warnings:\"1\")",
+      "timestamp" : "2023-08-20 16:56:55.739 +0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:10 login.script",
+      "timestamp" : "2023-08-20 16:56:55.746 +0800"
+    }
+  ],
+  "createdTimestamp" : "2023-08-20 16:56:45.460 +0800"
+}

@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1692521506.46279,
+  "ocrcapturestring" : "d Q L",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "10.244.8.93",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin11",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "d Q L",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[61,17]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "initialscreen.png",
+      "capturerect" : [
+        14,
+        729,
+        123,
+        34
+      ]
+    }
+  ],
+  "createddate" : 1692521506.46279,
+  "lastfoundlocation" : [
+    14,
+    729,
+    123,
+    34
+  ],
+  "originalcapturelocation" : [
+    14,
+    729,
+    123,
+    34
+  ],
+  "lastfounddate" : 1692525680.40517,
+  "name" : "initialscreen"
+}

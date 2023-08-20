@@ -1,0 +1,77 @@
+{
+  "lastmodifieddate" : 1692522191.907233,
+  "ocrcapturestring" : "a",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "10.244.8.93",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin11",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "a",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[12,14]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "notepad_open\/notepad_open.png",
+      "capturerect" : [
+        22,
+        67,
+        18,
+        22
+      ]
+    },
+    {
+      "connectionserverid" : "10.244.8.93",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin11",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "□",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[14,16]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "notepad_open\/notepad_open2.png",
+      "capturerect" : [
+        54,
+        321,
+        21,
+        26
+      ]
+    }
+  ],
+  "createddate" : 1692521685.5803051,
+  "lastfoundlocation" : [
+    54,
+    321,
+    21,
+    26
+  ],
+  "originalcapturelocation" : [
+    22,
+    67,
+    18,
+    22
+  ],
+  "lastfounddate" : 1692522164.033577,
+  "name" : "notepad_open"
+}

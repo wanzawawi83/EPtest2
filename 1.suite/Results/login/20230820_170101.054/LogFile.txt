@@ -1,0 +1,6 @@
+﻿2023-08-20 17:01:01.059 +0800	START		Running login.script
+2023-08-20 17:01:01.126 +0800	waitfor	initialscreen	found at (75, 746)	1	on_login	login.script
+2023-08-20 17:01:01.252 +0800	click	win_icon	at (32, 744)	2	on_login	login.script
+2023-08-20 17:01:02.067 +0800	typetext		notepad[returnKey]	3	on_login	login.script
+2023-08-20 17:01:02.090 +0800	EndTestCase		(Duration:"1.028002", Errors:"0", Exceptions:"0", StartTime:"2023-08-20 17:01:01 +0800", Successes:"1", TestCase:"login.script", Warnings:"0")
+2023-08-20 17:01:02.102 +0800	SUCCESS		Execution Time 0:00:01 login.script

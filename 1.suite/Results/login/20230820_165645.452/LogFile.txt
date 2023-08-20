@@ -1,0 +1,10 @@
+﻿2023-08-20 16:56:45.455 +0800	START		Running login.script
+2023-08-20 16:56:45.962 +0800	waitfor	initialscreen	found at (75, 746)	1	on_login	login.script
+2023-08-20 16:56:46.574 +0800	click	win_icon	at (32, 744)	2	on_login	login.script
+2023-08-20 16:56:47.390 +0800	typetext		notepad[returnKey]	3	on_login	login.script
+2023-08-20 16:56:55.425 +0800	LogWarning		Unable to Find Image(s): notepad_open.png -- AutoUpdate engaged	4	on_login	login.script
+2023-08-20 16:56:55.650 +0800	AutoUpdateCaptureScreen	AutoUpdate_0001.png		4	on_login	login.script
+2023-08-20 16:56:55.705 +0800	AutoUpdateWarning	notepad_open/notepad_open.png	Found Alternate Image -- Using Scaling Search 1.2000. New Image Rep saved: 'notepad_open/notepad_open2.png'	4	on_login	login.script	"Name" = "Scaling Search"; "Info" = "1.2000"; 
+2023-08-20 16:56:55.714 +0800	waitfor	notepad_open/notepad_open2.png	found at (68, 337)	4	on_login	login.script
+2023-08-20 16:56:55.739 +0800	EndTestCase		(Duration:"10.278139", Errors:"0", Exceptions:"0", StartTime:"2023-08-20 16:56:45 +0800", Successes:"1", TestCase:"login.script", Warnings:"1")
+2023-08-20 16:56:55.746 +0800	SUCCESS		Execution Time 0:00:10 login.script

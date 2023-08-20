@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="login">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2023-08-20 16:56:45 +0800</FirstRun>
+  <LastRun>2023-08-20 17:11:19 +0800</LastRun>
+  <TotalTimeOnSuccess>52.299222</TotalTimeOnSuccess>
+ </script>
+ <script name="exec3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-08-20 17:05:17 +0800</FirstRun>
+  <LastRun>2023-08-20 17:05:17 +0800</LastRun>
+  <TotalTimeOnSuccess>0.171711</TotalTimeOnSuccess>
+ </script>
+ <script name="exec1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-08-20 17:04:53 +0800</FirstRun>
+  <LastRun>2023-08-20 17:07:14 +0800</LastRun>
+  <TotalTimeOnSuccess>0.613095</TotalTimeOnSuccess>
+ </script>
+</statistics>

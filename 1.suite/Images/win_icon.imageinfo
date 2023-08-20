@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2023-08-20 08:52:40 +0000";
+    CaptureHost = "VMwin11";
+    CaptureScreenSize = (
+        1024,
+        768);
+    HasAlpha = 1;
+    HotSpotX = 9;
+    HotSpotY = 10;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 23;
+    OriginalLocationY = 734;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "win_icon";
+    tags = ();
+}

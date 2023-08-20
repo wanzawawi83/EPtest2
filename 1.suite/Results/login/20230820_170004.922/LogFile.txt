@@ -1,0 +1,6 @@
+﻿2023-08-20 17:00:04.926 +0800	START		Running login.script
+2023-08-20 17:00:05.171 +0800	waitfor	initialscreen	found at (75, 746)	1	on_login	login.script
+2023-08-20 17:00:05.340 +0800	click	win_icon	at (32, 744)	2	on_login	login.script
+2023-08-20 17:00:06.153 +0800	typetext		notepad[returnKey]	3	on_login	login.script
+2023-08-20 17:00:06.178 +0800	EndTestCase		(Duration:"1.249026", Errors:"1", Exceptions:"0", StartTime:"2023-08-20 17:00:04 +0800", Successes:"0", TestCase:"login.script", Warnings:"0")
+2023-08-20 17:00:06.461 +0800	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Command: 'returnkey' -- Execution Time 0:00:01 login.script

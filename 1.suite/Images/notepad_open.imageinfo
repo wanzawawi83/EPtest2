@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2023-08-20 09:03:45 +0000";
+    CaptureHost = "VMwin11";
+    CaptureScreenSize = (
+        1024,
+        768);
+    HasAlpha = 1;
+    HotSpotX = 82;
+    HotSpotY = 28;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 16;
+    OriginalLocationY = 116;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "notepad_open2";
+    tags = ();
+}

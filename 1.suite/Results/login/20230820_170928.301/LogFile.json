@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running login.script",
+      "timestamp" : "2023-08-20 17:09:28.306 +0800"
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "VMwin10:(null)",
+      "timestamp" : "2023-08-20 17:09:33.524 +0800",
+      "identifier" : "Connect",
+      "scriptName" : "login.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "Unable to Find Image(s): initialscreen.png -- AutoUpdate engaged",
+      "timestamp" : "2023-08-20 17:09:48.604 +0800",
+      "identifier" : "LogWarning",
+      "scriptName" : "login.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_login",
+      "message" : "Unable To Find Any Image On Screen \"initialscreen\" within 15.00 seconds",
+      "identifier" : "Exception",
+      "image" : "initialscreen",
+      "handlerLine" : 2,
+      "timestamp" : "2023-08-20 17:09:49.070 +0800",
+      "scriptName" : "login.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"20.774158\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-08-20 17:09:28 +0800\", Successes:\"0\", TestCase:\"login.script\", Warnings:\"1\")",
+      "timestamp" : "2023-08-20 17:09:49.083 +0800"
+    },
+    {
+      "message" : "Image Not Found: waitfor Error - Unable To Find Any Image On Screen \"initialscreen\" within 15.00 seconds -- Execution Time 0:00:20 login.script",
+      "timestamp" : "2023-08-20 17:09:49.123 +0800",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2023-08-20 17:09:28.308 +0800"
+}

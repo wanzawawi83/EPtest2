@@ -1,0 +1,4 @@
+﻿2023-08-20 17:05:54.358 +0800	START		Running exec1.script
+2023-08-20 17:05:54.505 +0800	typetext		Line 1[enter]	1	on_exec1	exec1.script
+2023-08-20 17:05:54.518 +0800	EndTestCase		(Duration:"0.156747", Errors:"0", Exceptions:"0", StartTime:"2023-08-20 17:05:54 +0800", Successes:"1", TestCase:"exec1.script", Warnings:"0")
+2023-08-20 17:05:54.527 +0800	SUCCESS		Execution Time 0:00:00 exec1.script

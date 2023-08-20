@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="exec3_script" package="1.suite" timestamp="2023-08-20 17:05:17.354 +0800"
+ tests="1"  failures="0" errors="0" time="0.171711">
+  <properties>
+   <property name="RunDate" value="2023-08-20 17:05:17.354 +0800"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="exec3.script" assertions="1" status="success"  time="0.165349">
+  </testcase>
+ </testsuite>
+</testsuites>

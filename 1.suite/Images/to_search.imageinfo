@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2023-08-20 09:26:25 +0000";
+    CaptureHost = "VMwin11";
+    CaptureScreenSize = (
+        1024,
+        768);
+    HasAlpha = 1;
+    HotSpotX = 44;
+    HotSpotY = 9;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 60;
+    OriginalLocationY = 78;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "to_search";
+    tags = ();
+}

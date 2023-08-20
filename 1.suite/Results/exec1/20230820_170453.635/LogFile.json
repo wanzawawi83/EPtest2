@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running exec1.script",
+      "timestamp" : "2023-08-20 17:04:53.640 +0800"
+    },
+    {
+      "handlerName" : "on_exec1",
+      "message" : "Line 1[enter]",
+      "timestamp" : "2023-08-20 17:04:53.785 +0800",
+      "identifier" : "typetext",
+      "scriptName" : "exec1.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.151437\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-08-20 17:04:53 +0800\", Successes:\"1\", TestCase:\"exec1.script\", Warnings:\"0\")",
+      "timestamp" : "2023-08-20 17:04:53.794 +0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 exec1.script",
+      "timestamp" : "2023-08-20 17:04:53.801 +0800"
+    }
+  ],
+  "createdTimestamp" : "2023-08-20 17:04:53.642 +0800"
+}

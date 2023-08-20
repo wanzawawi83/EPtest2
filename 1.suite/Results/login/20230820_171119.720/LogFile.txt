@@ -1,0 +1,12 @@
+﻿2023-08-20 17:11:19.725 +0800	START		Running login.script
+2023-08-20 17:11:25.140 +0800	Connect		VMwin11:(null)	1	on_login	login.script
+2023-08-20 17:11:31.021 +0800	waitfor	initialscreen	found at (75, 746)	3	on_login	login.script
+2023-08-20 17:11:31.629 +0800	click	win_icon	at (32, 744)	4	on_login	login.script
+2023-08-20 17:11:32.443 +0800	typetext		notepad[returnKey]	5	on_login	login.script
+2023-08-20 17:11:41.177 +0800	LogWarning		Unable to Find Image(s): launch_notepad.png -- AutoUpdate engaged	6	on_login	login.script
+2023-08-20 17:11:41.342 +0800	AutoUpdateCaptureScreen	AutoUpdate_0001.png		6	on_login	login.script
+2023-08-20 17:11:41.417 +0800	AutoUpdateWarning	launch_notepad/launch_notepad.png	Found Alternate Image -- Using Alternate Types Adaptive to Image. New Image Rep saved: 'launch_notepad/launch_notepad2.png'	6	on_login	login.script	"Name" = "Alternate Types"; "Info" = "Adaptive to Image"; 
+2023-08-20 17:11:41.526 +0800	click	launch_notepad/launch_notepad2.png	at (87, 229)	6	on_login	login.script
+2023-08-20 17:11:43.237 +0800	waitfor	notepad_open	found at (98, 144)	7	on_login	login.script
+2023-08-20 17:11:43.256 +0800	EndTestCase		(Duration:"23.528875", Errors:"0", Exceptions:"0", StartTime:"2023-08-20 17:11:19 +0800", Successes:"1", TestCase:"login.script", Warnings:"1")
+2023-08-20 17:11:43.270 +0800	SUCCESS		Execution Time 0:00:23 login.script

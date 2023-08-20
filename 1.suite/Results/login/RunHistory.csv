@@ -1,0 +1,15 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-08-20 16:56:45.452 +0800,"Success",0:00:10,0,1,0,"20230820_165645.452/LogFile.txt","","",1
+2023-08-20 16:57:51.690 +0800,"Success",0:00:02,0,0,0,"20230820_165751.690/LogFile.txt","","",1
+2023-08-20 16:58:47.341 +0800,"Failure",0:00:01,1,0,0,"20230820_165847.341/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'enterkey'",0
+2023-08-20 16:59:45.475 +0800,"Failure",0:00:01,1,0,0,"20230820_165945.475/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'returnkey'",0
+2023-08-20 17:00:04.922 +0800,"Failure",0:00:01,1,0,0,"20230820_170004.922/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'returnkey'",0
+2023-08-20 17:00:25.322 +0800,"Success",0:00:02,0,0,0,"20230820_170025.322/LogFile.txt","","",1
+2023-08-20 17:01:01.054 +0800,"Success",0:00:01,0,0,0,"20230820_170101.054/LogFile.txt","","",1
+2023-08-20 17:01:08.726 +0800,"Success",0:00:01,0,0,0,"20230820_170108.726/LogFile.txt","","",1
+2023-08-20 17:01:48.588 +0800,"Success",0:00:01,0,0,0,"20230820_170148.588/LogFile.txt","","",1
+2023-08-20 17:04:23.742 +0800,"Success",0:00:04,0,0,0,"20230820_170423.742/LogFile.txt","","",1
+2023-08-20 17:04:38.502 +0800,"Success",0:00:04,0,0,0,"20230820_170438.502/LogFile.txt","","",1
+2023-08-20 17:08:48.973 +0800,"Failure",0:00:21,1,1,1,"20230820_170848.973/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""initialscreen"" within 15.00 seconds",0
+2023-08-20 17:09:28.301 +0800,"Failure",0:00:20,1,1,1,"20230820_170928.301/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""initialscreen"" within 15.00 seconds",0
+2023-08-20 17:11:19.720 +0800,"Success",0:00:23,0,1,0,"20230820_171119.720/LogFile.txt","","",1

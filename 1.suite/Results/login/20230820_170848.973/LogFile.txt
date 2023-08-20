@@ -1,0 +1,6 @@
+﻿2023-08-20 17:08:48.978 +0800	START		Running login.script
+2023-08-20 17:08:54.299 +0800	Connect		VMwin10:(null)	1	on_login	login.script
+2023-08-20 17:09:09.951 +0800	LogWarning		Unable to Find Image(s): initialscreen.png -- AutoUpdate engaged	2	on_login	login.script
+2023-08-20 17:09:10.788 +0800	Exception	initialscreen	Unable To Find Any Image On Screen "initialscreen" within 15.00 seconds	2	on_login	login.script
+2023-08-20 17:09:10.801 +0800	EndTestCase		(Duration:"21.820739", Errors:"1", Exceptions:"1", StartTime:"2023-08-20 17:08:48 +0800", Successes:"0", TestCase:"login.script", Warnings:"1")
+2023-08-20 17:09:10.845 +0800	FAILURE	Screen_Error.png	Image Not Found: waitfor Error - Unable To Find Any Image On Screen "initialscreen" within 15.00 seconds -- Execution Time 0:00:21 login.script

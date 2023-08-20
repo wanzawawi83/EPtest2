@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="login">
+ <run>
+  <RunDate>2023-08-20 16:56:45.452 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>10.286635</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_165645.452/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 16:57:51.690 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>2.484971</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_165751.690/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 16:58:47.341 +0800</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.032210</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230820_165847.341/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;enterkey&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 16:59:45.475 +0800</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.957781</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230820_165945.475/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;returnkey&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:00:04.922 +0800</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.255151</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230820_170004.922/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;returnkey&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:00:25.322 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>2.583438</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_170025.322/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:01:01.054 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>1.034530</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_170101.054/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:01:08.726 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>1.835161</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_170108.726/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:01:48.588 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>1.713606</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_170148.588/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:04:23.742 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>4.456255</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_170423.742/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:04:38.502 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>4.368903</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_170438.502/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:08:48.973 +0800</RunDate>
+  <Status>Failure</Status>
+  <Duration>21.827178</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230820_170848.973/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;initialscreen&quot; within 15.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:09:28.301 +0800</RunDate>
+  <Status>Failure</Status>
+  <Duration>20.781624</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230820_170928.301/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;initialscreen&quot; within 15.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-08-20 17:11:19.720 +0800</RunDate>
+  <Status>Success</Status>
+  <Duration>23.535723</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20230820_171119.720/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>
