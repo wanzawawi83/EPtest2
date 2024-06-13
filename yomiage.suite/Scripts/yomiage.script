@@ -1,0 +1,22 @@
+﻿to Yomiage 
+	try
+		TypeText "t"
+		wait 3
+		TypeText "1"
+		wait 1
+		TypeText "2"
+		wait 1
+		TypeText "3"
+		wait 1
+		TypeText "4"
+		wait 1
+		TypeText "5"
+		
+		Click RemoteScreenRectangle().center()
+		
+	catch
+		put "NG" 
+		
+	end try
+	
+end Yomiage
