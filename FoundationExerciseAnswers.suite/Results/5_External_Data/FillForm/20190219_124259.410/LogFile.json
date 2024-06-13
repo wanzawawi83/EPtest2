@@ -1,0 +1,206 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 5_External_Data\/FillForm.script",
+      "timestamp" : "2019-02-19 12:42:59.412 +0000"
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "SEARCHRECTANGLE = (0,76.8,1024,768)",
+      "timestamp" : "2019-02-19 12:42:59.557 +0000",
+      "identifier" : "set",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_5_external_data_selectfield",
+      "message" : "found at (208, 212)",
+      "identifier" : "waitfor",
+      "image" : "(TEXT:\"Full Name\")",
+      "handlerLine" : 2,
+      "timestamp" : "2019-02-19 12:43:00.435 +0000",
+      "scriptName" : "5_External_Data\/SelectField.script"
+    },
+    {
+      "handlerName" : "on_5_external_data_selectfield",
+      "message" : "at (228, 212)",
+      "timestamp" : "2019-02-19 12:43:00.537 +0000",
+      "identifier" : "click",
+      "scriptName" : "5_External_Data\/SelectField.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "Randy",
+      "timestamp" : "2019-02-19 12:43:01.308 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "[tab]",
+      "timestamp" : "2019-02-19 12:43:02.035 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_5_external_data_selectfield",
+      "message" : "found at (193, 243)",
+      "identifier" : "waitfor",
+      "image" : "(TEXT:\"Email\")",
+      "handlerLine" : 2,
+      "timestamp" : "2019-02-19 12:43:02.676 +0000",
+      "scriptName" : "5_External_Data\/SelectField.script"
+    },
+    {
+      "handlerName" : "on_5_external_data_selectfield",
+      "message" : "at (213, 243)",
+      "timestamp" : "2019-02-19 12:43:02.834 +0000",
+      "identifier" : "click",
+      "scriptName" : "5_External_Data\/SelectField.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "me@you.com",
+      "timestamp" : "2019-02-19 12:43:03.661 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "[tab]",
+      "timestamp" : "2019-02-19 12:43:04.391 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_5_external_data_selectfield",
+      "message" : "found at (202, 276)",
+      "identifier" : "waitfor",
+      "image" : "(TEXT:\"Message\")",
+      "handlerLine" : 2,
+      "timestamp" : "2019-02-19 12:43:04.944 +0000",
+      "scriptName" : "5_External_Data\/SelectField.script"
+    },
+    {
+      "handlerName" : "on_5_external_data_selectfield",
+      "message" : "at (222, 276)",
+      "timestamp" : "2019-02-19 12:43:05.194 +0000",
+      "identifier" : "click",
+      "scriptName" : "5_External_Data\/SelectField.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "Hi everyone!",
+      "timestamp" : "2019-02-19 12:43:06.042 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "[tab]",
+      "timestamp" : "2019-02-19 12:43:06.770 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "found at (387, 500)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"Purple\")",
+      "handlerLine" : 17,
+      "timestamp" : "2019-02-19 12:43:08.405 +0000",
+      "scriptName" : "5_External_Data\/FillForm.script"
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "found at (387, 500)",
+      "identifier" : "waitfor",
+      "image" : "(TEXT:\"Purple\")",
+      "handlerLine" : 18,
+      "timestamp" : "2019-02-19 12:43:09.455 +0000",
+      "scriptName" : "5_External_Data\/FillForm.script"
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "at (387, 500)",
+      "timestamp" : "2019-02-19 12:43:09.550 +0000",
+      "identifier" : "click",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "found at (388, 562)",
+      "identifier" : "waitfor",
+      "image" : "(TEXT:\"Laptop\")",
+      "handlerLine" : 23,
+      "timestamp" : "2019-02-19 12:43:10.281 +0000",
+      "scriptName" : "5_External_Data\/FillForm.script"
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "at (351, 556)",
+      "timestamp" : "2019-02-19 12:43:10.381 +0000",
+      "identifier" : "click",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 27
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "at (339, 623)",
+      "identifier" : "click",
+      "image" : "5_External_Data\/SupperTime",
+      "handlerLine" : 28,
+      "timestamp" : "2019-02-19 12:43:12.515 +0000",
+      "scriptName" : "5_External_Data\/FillForm.script"
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "found at (376, 621)",
+      "identifier" : "waitfor",
+      "image" : "(TEXT:\"Breakfast\")",
+      "handlerLine" : 29,
+      "timestamp" : "2019-02-19 12:43:13.280 +0000",
+      "scriptName" : "5_External_Data\/FillForm.script"
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "at (376, 621)",
+      "timestamp" : "2019-02-19 12:43:13.376 +0000",
+      "identifier" : "click",
+      "scriptName" : "5_External_Data\/FillForm.script",
+      "handlerLine" : 30
+    },
+    {
+      "handlerName" : "on_5_external_data_fillform",
+      "message" : "No Image Found On Screen: \"5_External_Data\/Submit\"",
+      "identifier" : "Exception",
+      "image" : "5_External_Data\/Submit",
+      "handlerLine" : 31,
+      "timestamp" : "2019-02-19 12:43:39.658 +0000",
+      "scriptName" : "5_External_Data\/FillForm.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"40.619406\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-02-19 12:42:59 +0000\", Successes:\"0\", TestCase:\"5_External_Data\/FillForm.script\", Warnings:\"0\")",
+      "timestamp" : "2019-02-19 12:43:40.040 +0000"
+    },
+    {
+      "message" : "Image Not Found click Error - No Image Found On Screen: \"5_External_Data\/Submit\"  Restricted Search Rectangle ((0,76),(1024,767))\\n -- Execution Time 0:00:40 5_External_Data\/FillForm.script",
+      "timestamp" : "2019-02-19 12:43:40.091 +0000",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2019-02-19 12:42:59.420 +0000"
+}

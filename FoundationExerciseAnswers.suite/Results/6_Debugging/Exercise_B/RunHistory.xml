@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="6_Debugging/Exercise_B">
+ <run>
+  <RunDate>2019-02-20 12:57:38.938 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>61.493084</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190220_125738.938/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

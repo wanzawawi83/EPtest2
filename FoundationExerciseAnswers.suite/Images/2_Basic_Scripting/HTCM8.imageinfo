@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2017-09-15 18:50:32 +0000";
+    CaptureHost = Training;
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 86;
+    HotSpotY = 84;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1300;
+    OriginalLocationY = 714;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

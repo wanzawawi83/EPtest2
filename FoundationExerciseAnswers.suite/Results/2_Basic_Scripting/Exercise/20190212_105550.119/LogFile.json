@@ -1,0 +1,213 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 2_Basic_Scripting\/Exercise.script",
+      "timestamp" : "2019-02-12 10:55:50.120 +0000"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2019-02-12 10:55:50.248 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "found at (44, 865)",
+      "identifier" : "waitfor",
+      "image" : "2_Basic_Scripting\/runHeader",
+      "handlerLine" : 2,
+      "timestamp" : "2019-02-12 10:55:50.942 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "chrome",
+      "timestamp" : "2019-02-12 10:55:51.175 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "[return]",
+      "timestamp" : "2019-02-12 10:55:51.904 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "found at (86, 52)",
+      "identifier" : "waitfor",
+      "image" : "2_Basic_Scripting\/refresh",
+      "handlerLine" : 5,
+      "timestamp" : "2019-02-12 10:55:52.979 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "http:\/\/nopcommerce.testplant.com\/",
+      "timestamp" : "2019-02-12 10:55:54.534 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "[return]",
+      "timestamp" : "2019-02-12 10:55:55.258 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "found all: 2_Basic_Scripting\/refresh:(86, 52) 2_Basic_Scripting\/nopcommerceLogo:(518, 183) ",
+      "timestamp" : "2019-02-12 10:55:56.897 +0000",
+      "identifier" : "waitforall",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "at (500, 500)",
+      "timestamp" : "2019-02-12 10:55:56.924 +0000",
+      "identifier" : "moveto",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "Unable to Find Image 2_Basic_Scripting\/HTCM8 within 2.00 seconds",
+      "identifier" : "imagefound",
+      "image" : "2_Basic_Scripting\/HTCM8",
+      "handlerLine" : 11,
+      "timestamp" : "2019-02-12 10:55:59.207 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "moved 3",
+      "timestamp" : "2019-02-12 10:55:59.448 +0000",
+      "identifier" : "scrollwheeldown",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "Unable to Find Image 2_Basic_Scripting\/HTCM8 within 2.00 seconds",
+      "identifier" : "imagefound",
+      "image" : "2_Basic_Scripting\/HTCM8",
+      "handlerLine" : 13,
+      "timestamp" : "2019-02-12 10:56:01.663 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "moved 3",
+      "timestamp" : "2019-02-12 10:56:01.711 +0000",
+      "identifier" : "scrollwheeldown",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "Unable to Find Image 2_Basic_Scripting\/HTCM8 within 2.00 seconds",
+      "identifier" : "imagefound",
+      "image" : "2_Basic_Scripting\/HTCM8",
+      "handlerLine" : 13,
+      "timestamp" : "2019-02-12 10:56:03.799 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "moved 3",
+      "timestamp" : "2019-02-12 10:56:04.832 +0000",
+      "identifier" : "scrollwheeldown",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "found at (1386, 855)",
+      "identifier" : "imagefound",
+      "image" : "2_Basic_Scripting\/HTCM8",
+      "handlerLine" : 13,
+      "timestamp" : "2019-02-12 10:56:05.238 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "product has been found",
+      "timestamp" : "2019-02-12 10:56:05.248 +0000",
+      "identifier" : "Log",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "at (1386, 755)",
+      "identifier" : "click",
+      "image" : "2_Basic_Scripting\/HTCM8",
+      "handlerLine" : 15,
+      "timestamp" : "2019-02-12 10:56:06.078 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "found all: 2_Basic_Scripting\/refresh:(86, 52) 2_Basic_Scripting\/nopcommerceLogo:(518, 183) ",
+      "timestamp" : "2019-02-12 10:56:09.012 +0000",
+      "identifier" : "waitforall",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "at (1046, 731)",
+      "identifier" : "click",
+      "image" : "2_Basic_Scripting\/ADDTOCART",
+      "handlerLine" : 17,
+      "timestamp" : "2019-02-12 10:56:09.769 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "found at (168, 93)",
+      "identifier" : "imagefound",
+      "image" : "2_Basic_Scripting\/CartConfirm",
+      "handlerLine" : 18,
+      "timestamp" : "2019-02-12 10:56:13.593 +0000",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "Product has been added to the cart",
+      "timestamp" : "2019-02-12 10:56:13.602 +0000",
+      "identifier" : "LogSuccess",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_2_basic_scripting_exercise",
+      "message" : "[windowsAltKey][F4]",
+      "timestamp" : "2019-02-12 10:56:13.637 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "2_Basic_Scripting\/Exercise.script",
+      "handlerLine" : 23
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"23.895574\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-02-12 10:55:50 +0000\", Successes:\"1\", TestCase:\"2_Basic_Scripting\/Exercise.script\", Warnings:\"0\")",
+      "timestamp" : "2019-02-12 10:56:14.025 +0000"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:23 2_Basic_Scripting\/Exercise.script",
+      "timestamp" : "2019-02-12 10:56:14.266 +0000"
+    }
+  ],
+  "createdTimestamp" : "2019-02-12 10:55:50.129 +0000"
+}

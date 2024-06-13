@@ -1,0 +1,28 @@
+﻿{
+    EPVersionNumber = 2212191810;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+        GoToFunctional =         {
+            TableScriptUserActionType = Execute;
+        };
+        GoToManager =         {
+            TableScriptUserActionType = Execute;
+        };
+        GoToWebsite =         {
+            TableScriptUserActionDefaultArguments = URL;
+            TableScriptUserActionDefaultExpectedValue = PASS;
+            TableScriptUserActionType = Verify;
+        };
+        OpenBrowser =         {
+            TableScriptUserActionDefaultArguments = BrowserName;
+            TableScriptUserActionDefaultExpectedValue = PASS;
+            TableScriptUserActionType = Verify;
+        };
+    };
+    SuiteEncodedTextKey = "(hU>>tFxCp*D:]NB";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

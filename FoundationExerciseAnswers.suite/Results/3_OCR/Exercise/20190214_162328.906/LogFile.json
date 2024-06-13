@@ -1,0 +1,111 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 3_OCR\/Exercise.script",
+      "timestamp" : "2019-02-14 16:23:28.908 +0000"
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2019-02-14 16:23:29.022 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "3_OCR\/Exercise.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "found at (935, 25)",
+      "identifier" : "waitfor",
+      "image" : "3_OCR\/runHeader",
+      "handlerLine" : 2,
+      "timestamp" : "2019-02-14 16:23:29.194 +0000",
+      "scriptName" : "3_OCR\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "chrome",
+      "timestamp" : "2019-02-14 16:23:29.813 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "3_OCR\/Exercise.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "[return]",
+      "timestamp" : "2019-02-14 16:23:30.542 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "3_OCR\/Exercise.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "found at (104, 71)",
+      "identifier" : "waitfor",
+      "image" : "3_OCR\/refresh",
+      "handlerLine" : 5,
+      "timestamp" : "2019-02-14 16:23:30.613 +0000",
+      "scriptName" : "3_OCR\/Exercise.script"
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "http:\/\/nopcommerce.testplant.com\/",
+      "timestamp" : "2019-02-14 16:23:31.676 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "3_OCR\/Exercise.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "[return]",
+      "timestamp" : "2019-02-14 16:23:32.399 +0000",
+      "identifier" : "typetext",
+      "scriptName" : "3_OCR\/Exercise.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "found all: 3_OCR\/refresh:(114, 81) 3_OCR\/nopcommercelogo:(525, 362) ",
+      "timestamp" : "2019-02-14 16:23:32.913 +0000",
+      "identifier" : "waitforall",
+      "scriptName" : "3_OCR\/Exercise.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "at (500, 500)",
+      "timestamp" : "2019-02-14 16:23:33.127 +0000",
+      "identifier" : "moveto",
+      "scriptName" : "3_OCR\/Exercise.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "SEARCHRECTANGLE = (0,0,1920,540)",
+      "timestamp" : "2019-02-14 16:23:33.141 +0000",
+      "identifier" : "set",
+      "scriptName" : "3_OCR\/Exercise.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_3_ocr_exercise",
+      "message" : "No Text Found On Screen: \"(TEXT:\"Electronics\")\"",
+      "identifier" : "Exception",
+      "image" : "(TEXT:\"Electronics\")",
+      "handlerLine" : 11,
+      "timestamp" : "2019-02-14 16:24:03.543 +0000",
+      "scriptName" : "3_OCR\/Exercise.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"35.111989\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-02-14 16:23:28 +0000\", Successes:\"0\", TestCase:\"3_OCR\/Exercise.script\", Warnings:\"0\")",
+      "timestamp" : "2019-02-14 16:24:04.027 +0000"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:35 3_OCR\/Exercise.script",
+      "timestamp" : "2019-02-14 16:24:04.039 +0000"
+    }
+  ],
+  "createdTimestamp" : "2019-02-14 16:23:28.915 +0000"
+}

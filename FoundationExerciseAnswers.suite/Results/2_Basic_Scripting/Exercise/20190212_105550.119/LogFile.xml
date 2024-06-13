@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="2_Basic_Scripting/Exercise_script" package="FoundationExerciseAnswers.suite" timestamp="2019-02-12 10:55:50.119 +0000"
+ tests="1"  failures="0" errors="0" time="23.905697">
+  <properties>
+   <property name="RunDate" value="2019-02-12 10:55:50.119 +0000"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="2_Basic_Scripting/Exercise.script" assertions="1" status="success"  time="23.895574">
+  </testcase>
+ </testsuite>
+</testsuites>

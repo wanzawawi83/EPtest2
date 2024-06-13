@@ -1,0 +1,34 @@
+﻿set the searchRectangle to ScreenPart(0,0.1,1,1)
+
+//repeat what is in the .csv file line by line
+repeat with Myline = each line of line 2 to the last of file ResourcePath("ResponsiveList.csv")
+	//Calling the FillForm script to fill in the form
+	run "5_External_Data/SelectField" "Full Name"
+	//Looping through each item in the csv file
+	typetext item 1 of MyLine
+	TypeText tab
+	run "5_External_Data/SelectField" "Email"
+	typetext item 2 of MyLine
+	TypeText tab
+	run "5_External_Data/SelectField" "Message"
+	typetext item 3 of MyLine
+	TypeText tab
+	//Using if else to catch an exception
+	if imagefound (Text: item 4 of MyLine)
+		WaitFor 20, (Text: item 4 of MyLine)
+		click foundimagelocation()
+	else
+		logerror "COuld not find the color:" && item 4 of MyLine
+	end if
+	WaitFor 20, (Text: item 5 of MyLine)
+	//Put the information of the text found in a variable/list
+	put foundimageinfo() into ImageInfo
+	//Click outside of the text location found
+	Click (item 1 of ImageInfo.ImageRectangle - 17, item 2 of ImageInfo.ImageRectangle)
+	Click "5_External_Data/SupperTime"
+	WaitFor 20, (Text: item 6 of MyLine)
+	Click foundimagelocation()
+	Click "5_External_Data/Submit"
+	Click "5_External_Data/ok"
+end repeat
+

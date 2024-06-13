@@ -1,0 +1,4 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+2_Basic_Scripting/Exercise,Success,1,0,2019-02-12 10:55:50 +0000,2019-02-12 10:55:50 +0000,0:00:23
+3_OCR/Exercise,Failure,1,1,2023-03-23 13:56:52 +0800,2023-03-23 13:56:52 +0800,0:00:00
+5_External_Data/FillForm,Failure,1,1,2019-02-19 12:42:59 +0000,2019-02-19 12:42:59 +0000,0:00:00

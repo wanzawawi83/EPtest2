@@ -1,0 +1,18 @@
+﻿to greetTheUser
+	put "Welcome to SenseTalk. Happy scripting!"
+end greetTheUser
+
+
+on addToTotal newAmount
+	add newAmount to global total -- Store total in a global variable
+end addToTotal
+
+
+function quotient dividend, divisor
+	if divisor is zero then return zero
+	else return dividend/ divisor
+end quotient
+
+
+
+

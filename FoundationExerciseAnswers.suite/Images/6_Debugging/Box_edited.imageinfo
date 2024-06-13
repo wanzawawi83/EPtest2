@@ -1,0 +1,24 @@
+﻿{
+    CaptureDate = "2017-09-05 14:03:54 +0000";
+    CaptureHost = "AWS Training";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    CropRectangle = "32,31,80,79";
+    HasAlpha = 1;
+    HotSpotX = 62;
+    HotSpotY = 62;
+    ImageDescription = <>;
+    ImageTolerance = 5;
+    KeepColor = "#4ACB4A";
+    KeepColorTolerance = 0;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 42;
+    OriginalLocationY = 203;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

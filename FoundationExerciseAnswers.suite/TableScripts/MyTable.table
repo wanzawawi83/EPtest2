@@ -1,0 +1,10 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>BeginTimer</Action><Arguments></Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Connect</Action><Arguments>AWS Training</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>8_Test_Execution/OpenBrowser</Action><Arguments>Chrome</Arguments><ExpectedValueExpression>PASS</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>8_Test_Execution/GoToWebsite</Action><Arguments>www.testplant.com</Arguments><ExpectedValueExpression>PASS</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>8_Test_Execution/GoToFunctional</Action><Arguments></Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>EndTimer</Action><Arguments></Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

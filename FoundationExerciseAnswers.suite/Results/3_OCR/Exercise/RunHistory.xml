@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="3_OCR/Exercise">
+ <run>
+  <RunDate>2019-02-14 16:23:28.906 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>35.120602</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190214_162328.906/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-03-23 13:56:52.194 +0800</RunDate>
+  <Status>Failure</Status>
+  <Duration>28.970239</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20230323_135652.194/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitforall Error - Not found: 3_OCR/nopcommercelogo</ErrorMessage>
+ </run>
+</runHistory>

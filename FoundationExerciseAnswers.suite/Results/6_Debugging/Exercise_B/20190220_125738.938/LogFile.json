@@ -1,0 +1,29 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running 6_Debugging\/Exercise_B.script",
+      "timestamp" : "2019-02-20 12:57:38.939 +0000"
+    },
+    {
+      "handlerName" : "on_6_debugging_exercise_b",
+      "message" : "found 0 images",
+      "identifier" : "everyimagelocation",
+      "image" : "6_Debugging\/Box_edited",
+      "handlerLine" : 2,
+      "timestamp" : "2019-02-20 12:57:49.849 +0000",
+      "scriptName" : "6_Debugging\/Exercise_B.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"61.483875\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-02-20 12:57:38 +0000\", Successes:\"0\", TestCase:\"6_Debugging\/Exercise_B.script\", Warnings:\"0\")",
+      "timestamp" : "2019-02-20 12:58:40.432 +0000"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:01:01 6_Debugging\/Exercise_B.script",
+      "timestamp" : "2019-02-20 12:58:40.445 +0000"
+    }
+  ],
+  "createdTimestamp" : "2019-02-20 12:57:38.948 +0000"
+}

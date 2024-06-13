@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="6_Debugging/Exercise_B_script" package="FoundationExerciseAnswers.suite" timestamp="2019-02-20 12:57:38.938 +0000"
+ tests="1"  failures="0" errors="0" time="61.493084">
+  <properties>
+   <property name="RunDate" value="2019-02-20 12:57:38.938 +0000"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="6_Debugging/Exercise_B.script" assertions="1" status="failure"  time="61.483875">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

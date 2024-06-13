@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2_Basic_Scripting/ADDTOCART.png</key>
+	<string>2019-02-12 10:56 +0000</string>
+	<key>2_Basic_Scripting/CartConfirm.png</key>
+	<string>2019-02-12 10:56 +0000</string>
+	<key>2_Basic_Scripting/HTCM8.png</key>
+	<string>2019-02-12 10:56 +0000</string>
+	<key>2_Basic_Scripting/nopcommerceLogo.png</key>
+	<string>2019-02-12 10:56 +0000</string>
+	<key>2_Basic_Scripting/refresh.png</key>
+	<string>2019-02-12 10:56 +0000</string>
+	<key>2_Basic_Scripting/runHeader.png</key>
+	<string>2019-02-12 11:17 +0000</string>
+	<key>3_OCR/CurrencyBR.png</key>
+	<string>2023-03-23 06:02 +0000</string>
+	<key>3_OCR/CurrencyTL.png</key>
+	<string>2023-03-23 06:02 +0000</string>
+	<key>3_OCR/DollarSign.png</key>
+	<string>2019-02-14 17:39 +0000</string>
+	<key>3_OCR/nopcommercelogo.png</key>
+	<string>2023-03-23 06:00 +0000</string>
+	<key>3_OCR/refresh.png</key>
+	<string>2023-03-23 06:02 +0000</string>
+	<key>3_OCR/runHeader/RunHeader_Win7.png</key>
+	<string>2023-03-23 05:56 +0000</string>
+	<key>3_OCR/runHeader/runHeader_Win10.png</key>
+	<string>2023-03-23 05:56 +0000</string>
+	<key>5_External_Data/SupperTime/SupperTime_new1.png</key>
+	<string>2019-02-19 12:43 +0000</string>
+	<key>6_Debugging/Box_white.png</key>
+	<string>2019-02-20 12:58 +0000</string>
+</dict>
+</plist>

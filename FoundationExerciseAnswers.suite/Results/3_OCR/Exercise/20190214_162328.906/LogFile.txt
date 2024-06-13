@@ -1,0 +1,14 @@
+﻿2019-02-14 16:23:28.908 +0000	START		Running 3_OCR/Exercise.script
+2019-02-14 16:23:29.022 +0000	typetext		[windowsKey]r	1	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:29.194 +0000	waitfor	3_OCR/runHeader	found at (935, 25)	2	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:29.813 +0000	typetext		chrome	3	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:30.542 +0000	typetext		[return]	4	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:30.613 +0000	waitfor	3_OCR/refresh	found at (104, 71)	5	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:31.676 +0000	typetext		http://nopcommerce.testplant.com/	6	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:32.399 +0000	typetext		[return]	7	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:32.913 +0000	waitforall		found all: 3_OCR/refresh:(114, 81) 3_OCR/nopcommercelogo:(525, 362) 	8	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:33.127 +0000	moveto		at (500, 500)	9	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:23:33.141 +0000	set		SEARCHRECTANGLE = (0,0,1920,540)	10	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:24:03.543 +0000	Exception	(TEXT:"Electronics")	No Text Found On Screen: "(TEXT:"Electronics")"	11	on_3_ocr_exercise	3_OCR/Exercise.script
+2019-02-14 16:24:04.027 +0000	EndTestCase		(Duration:"35.111989", Errors:"1", Exceptions:"1", StartTime:"2019-02-14 16:23:28 +0000", Successes:"0", TestCase:"3_OCR/Exercise.script", Warnings:"0")
+2019-02-14 16:24:04.039 +0000	ABORTED		Execution Time 0:00:35 3_OCR/Exercise.script

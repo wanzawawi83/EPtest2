@@ -1,0 +1,12 @@
+﻿//Put every image location of the image into a list
+put EveryImageLocation("6_Debugging/Box_edited") into GreenRect
+
+//put the number of items of GreenRect into another variable
+put the number of items of GreenRect into Num
+
+//repeat loop
+repeat Num times
+	Click "6_Debugging/Box_edited"
+end repeat
+Click "6_Debugging/Box_white"
+Click "6_Debugging/Testplant"
