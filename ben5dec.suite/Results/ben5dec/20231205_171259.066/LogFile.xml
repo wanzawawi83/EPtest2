@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="ben5dec_script" package="ben5dec.suite" timestamp="2023-12-05 17:12:59.066 +0800"
+ tests="1"  failures="0" errors="0" time="0.009676">
+  <properties>
+   <property name="RunDate" value="2023-12-05 17:12:59.066 +0800"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ben5dec.script" assertions="1" status="success"  time="0.000776">
+  </testcase>
+ </testsuite>
+</testsuites>

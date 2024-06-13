@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running ben5dec.script",
+      "timestamp" : "2023-12-05 17:12:59.071 +0800"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.000776\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-05 17:12:59 +0800\", Successes:\"1\", TestCase:\"ben5dec.script\", Warnings:\"0\")",
+      "timestamp" : "2023-12-05 17:12:59.077 +0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 ben5dec.script",
+      "timestamp" : "2023-12-05 17:12:59.107 +0800"
+    }
+  ],
+  "createdTimestamp" : "2023-12-05 17:12:59.075 +0800"
+}

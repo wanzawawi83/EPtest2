@@ -1,0 +1,4 @@
+﻿to SetupTestEnv 
+	Answer "Please setup the test environment." "OK" title "Network Topology" time out 0
+	Log "Test environment is ready."
+end SetupTestEnv

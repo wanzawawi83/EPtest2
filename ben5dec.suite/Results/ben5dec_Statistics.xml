@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="ben5dec">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-12-05 17:12:59 +0800</FirstRun>
+  <LastRun>2023-12-05 17:13:32 +0800</LastRun>
+  <TotalTimeOnSuccess>0.012914</TotalTimeOnSuccess>
+ </script>
+</statistics>
