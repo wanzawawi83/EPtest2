@@ -1,5 +1,0 @@
-﻿//Script called ScreenPart
-
-params TLx,TLy,BRx,BRy-- Values are between 0 and 1 and represent the proportion you want to go in the x and y direction for the top left and bottom right coordinates.
-
-return (TLx * ConnectionInfo().ScreenSize.x,TLy * ConnectionInfo().ScreenSize.y, BRx * ConnectionInfo().ScreenSize.x, BRy * ConnectionInfo().ScreenSize.y)

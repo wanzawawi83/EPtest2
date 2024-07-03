@@ -1,2 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2019-02-19 12:42:59.410 +0000,"Failure",0:00:40,1,0,1,"20190219_124259.410/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""5_External_Data/Submit""  Restricted Search Rectangle ((0,76),(1024,767))\n",0

@@ -1,4 +1,0 @@
-﻿2019-02-20 12:57:38.939 +0000	START		Running 6_Debugging/Exercise_B.script
-2019-02-20 12:57:49.849 +0000	everyimagelocation	6_Debugging/Box_edited	found 0 images	2	on_6_debugging_exercise_b	6_Debugging/Exercise_B.script
-2019-02-20 12:58:40.432 +0000	EndTestCase		(Duration:"61.483875", Errors:"1", Exceptions:"0", StartTime:"2019-02-20 12:57:38 +0000", Successes:"0", TestCase:"6_Debugging/Exercise_B.script", Warnings:"0")
-2019-02-20 12:58:40.445 +0000	ABORTED		Execution Time 0:01:01 6_Debugging/Exercise_B.script

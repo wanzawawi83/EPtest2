@@ -1,3 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2019-02-14 16:23:28.906 +0000,"Aborted",0:00:35,1,0,1,"20190214_162328.906/LogFile.txt","","",0
-2023-03-23 13:56:52.194 +0800,"Failure",0:00:28,1,2,1,"20230323_135652.194/LogFile.txt","","Image Not Found -- waitforall Error - Not found: 3_OCR/nopcommercelogo",0

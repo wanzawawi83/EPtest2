@@ -1,5 +1,0 @@
-﻿//Calling the script
-run "4_Modular_and_Params/AddItUp" "23143", "54354"
-
-//Put the vairable
-put Global Total

@@ -1,5 +1,0 @@
-﻿//Setting up 2 parameters
-params param1, param2
-
-//Putting them into a global variable
-put param1 + param2 into Global Total

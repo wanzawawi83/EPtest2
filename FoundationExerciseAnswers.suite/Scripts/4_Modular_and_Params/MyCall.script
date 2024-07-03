@@ -1,6 +1,0 @@
-﻿run "4_Modular_and_Params/MyFunctions".greetTheUser
-run "4_Modular_and_Params/MyFunctions".addToTotal(666)
-run "4_Modular_and_Params/MyFunctions".addToTotal(666)
-log global total
-
-log "4_Modular_and_Params/MyFunctions".quotient(1,2)
