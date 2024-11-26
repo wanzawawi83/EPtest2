@@ -1,0 +1,13 @@
+﻿MoveTo (Image:"winicon", WaitFor:5)
+wait 5
+MoveTo (Image:"taskbar1", WaitFor:5)
+
+MoveTo (Image:"winicon", WaitFor:5)
+wait 5
+MoveTo (Image:"taskbar1", WaitFor:5)
+
+MoveTo (Image:"winicon", WaitFor:5)
+wait 5
+MoveTo (Image:"taskbar1", WaitFor:5)
+wait 5
+

@@ -1,0 +1,5 @@
+﻿2024-11-11 10:06:37.176 +0800	START		Running opennetfolder.script
+2024-11-11 10:06:52.272 +0800	typetext		[windowsKey]r	2	on_opennetfolder	opennetfolder.script
+2024-11-11 10:06:57.509 +0800	typetext		\\PRDWJ3-IT-8\share	4	on_opennetfolder	opennetfolder.script
+2024-11-11 10:07:02.525 +0800	EndTestCase		(Duration:"25.325897", Errors:"0", Exceptions:"0", StartTime:"2024-11-11 10:06:37 +0800", Successes:"1", TestCase:"opennetfolder.script", Warnings:"0")
+2024-11-11 10:07:02.537 +0800	SUCCESS		Execution Time 0:00:25 opennetfolder.script

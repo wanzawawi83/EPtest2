@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1731047451.399976,
+  "ocrcapturestring" : "z",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "10.244.8.149",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin10",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "z",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[10,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "winicon.png",
+      "capturerect" : [
+        15,
+        771,
+        18,
+        18
+      ]
+    }
+  ],
+  "createddate" : 1731047451.3999748,
+  "lastfoundlocation" : [
+    15,
+    771,
+    18,
+    18
+  ],
+  "originalcapturelocation" : [
+    15,
+    771,
+    18,
+    18
+  ],
+  "lastfounddate" : 1731307159.6267362,
+  "name" : "winicon"
+}

@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2024-11-08 06:31:11 +0000";
+    CaptureHost = "VMwin10";
+    CaptureScreenSize = (
+        1280,
+        800);
+    HasAlpha = 1;
+    HotSpotX = 14;
+    HotSpotY = 15;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 349;
+    OriginalLocationY = 768;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "taskbar1";
+    tags = ();
+}

@@ -1,0 +1,46 @@
+{
+  "lastmodifieddate" : 1731047790.820744,
+  "testlocationdata" : [
+    {
+      "name" : "closebutton.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin10",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[108,11]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.149",
+      "capturerect" : [
+        1150,
+        9,
+        122,
+        73
+      ]
+    }
+  ],
+  "createddate" : 1731047790.8207431,
+  "lastfoundlocation" : [
+    894,
+    9,
+    122,
+    73
+  ],
+  "originalcapturelocation" : [
+    1150,
+    9,
+    122,
+    73
+  ],
+  "lastfounddate" : 1731049841.4765391,
+  "name" : "closebutton"
+}

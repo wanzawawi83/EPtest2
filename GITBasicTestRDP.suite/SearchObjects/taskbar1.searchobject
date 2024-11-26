@@ -1,0 +1,46 @@
+{
+  "lastmodifieddate" : 1731047488.172159,
+  "testlocationdata" : [
+    {
+      "name" : "taskbar1.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin10",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[14,15]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.149",
+      "capturerect" : [
+        349,
+        768,
+        24,
+        23
+      ]
+    }
+  ],
+  "createddate" : 1731047488.172158,
+  "lastfoundlocation" : [
+    349,
+    768,
+    24,
+    23
+  ],
+  "originalcapturelocation" : [
+    349,
+    768,
+    24,
+    23
+  ],
+  "lastfounddate" : 1731307164.7391391,
+  "name" : "taskbar1"
+}

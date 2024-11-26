@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="opennetfolder">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-11-11 10:06:37 +0800</FirstRun>
+  <LastRun>2024-11-11 10:06:37 +0800</LastRun>
+  <TotalTimeOnSuccess>25.349482</TotalTimeOnSuccess>
+ </script>
+ <script name="launch">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-11-08 15:50:06 +0800</FirstRun>
+  <LastRun>2024-11-08 15:50:06 +0800</LastRun>
+  <TotalTimeOnSuccess>10.257473</TotalTimeOnSuccess>
+ </script>
+</statistics>

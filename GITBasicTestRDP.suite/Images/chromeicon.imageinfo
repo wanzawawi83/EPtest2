@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2024-11-08 06:28:12 +0000";
+    CaptureHost = "VMwin10";
+    CaptureScreenSize = (
+        "1280",
+        "800");
+    CropRectangle = "8,8,42,42";
+    HasAlpha = 1;
+    HotSpotX = 37;
+    HotSpotY = 29;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1062;
+    OriginalLocationY = 422;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "chromeicon";
+    tags = ();
+}

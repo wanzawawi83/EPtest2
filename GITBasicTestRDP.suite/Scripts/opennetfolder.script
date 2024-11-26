@@ -1,0 +1,6 @@
+﻿wait 15
+typetext windowsKey,"r"
+wait 5
+typetext "\\10.244.8.93\share"
+typetext returnKey
+wait 5

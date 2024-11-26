@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="launch_script" package="BasicTestRDP.suite" timestamp="2024-11-08 15:50:06.045 +0800"
+ tests="1"  failures="0" errors="0" time="10.257473">
+  <properties>
+   <property name="RunDate" value="2024-11-08 15:50:06.045 +0800"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="launch.script" assertions="1" status="success"  time="10.25148">
+  </testcase>
+ </testsuite>
+</testsuites>

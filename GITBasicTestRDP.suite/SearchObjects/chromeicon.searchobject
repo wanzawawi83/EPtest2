@@ -1,0 +1,72 @@
+{
+  "lastmodifieddate" : 1731052179.104178,
+  "testlocationdata" : [
+    {
+      "name" : "chromeicon.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "VMwin10",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[37,29]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.149",
+      "capturerect" : [
+        1062,
+        422,
+        50,
+        50
+      ]
+    },
+    {
+      "name" : "chromeicon.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "VMwin10",
+      "connectionportnum" : 58471,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[29,21]",
+        "CropRectangle" : "[8,8,42,42]"
+      },
+      "type" : 1,
+      "connectionserverid" : "10.244.8.149",
+      "capturerect" : [
+        1062,
+        422,
+        34,
+        34
+      ]
+    }
+  ],
+  "createddate" : 1731047313.6873879,
+  "lastfoundlocation" : [
+    958,
+    430,
+    34,
+    34
+  ],
+  "originalcapturelocation" : [
+    1062,
+    422,
+    50,
+    50
+  ],
+  "lastfounddate" : 1731307138.356931,
+  "name" : "chromeicon"
+}

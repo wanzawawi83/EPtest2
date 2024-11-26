@@ -1,0 +1,29 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running launch.script",
+      "timestamp" : "2024-11-08 15:50:06.048 +0800"
+    },
+    {
+      "handlerName" : "on_launch",
+      "message" : "at (1114, 451)",
+      "identifier" : "doubleclick",
+      "image" : "chromeicon",
+      "handlerLine" : 2,
+      "timestamp" : "2024-11-08 15:50:16.291 +0800",
+      "scriptName" : "launch.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"10.25148\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-11-08 15:50:06 +0800\", Successes:\"1\", TestCase:\"launch.script\", Warnings:\"0\")",
+      "timestamp" : "2024-11-08 15:50:16.303 +0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:10 launch.script",
+      "timestamp" : "2024-11-08 15:50:16.311 +0800"
+    }
+  ],
+  "createdTimestamp" : "2024-11-08 15:50:06.051 +0800"
+}
